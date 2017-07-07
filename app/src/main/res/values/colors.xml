@@ -7,4 +7,6 @@
     <color name="colorGreenFeature">#00FF00</color>
     <!-- adding color for blue feature -->
     <color name="colorBlueFeature">#0000FF</color>
+    <!-- adding color for red feature -->
+    <color name="colorRedFeature">#FF0000</color>
 </resources>
